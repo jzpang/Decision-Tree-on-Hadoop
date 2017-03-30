@@ -1,0 +1,8 @@
+Accuracy: 0.9416666666666667
+
+	Confusion Matrix
+		True Label
+Prediction	Iris-setosa	Iris-versicolor	Iris-virginica
+Iris-setosa	.98		.00		.00	
+Iris-versicolor	.02		.93		.07	
+Iris-virginica	.00		.07		.93	
